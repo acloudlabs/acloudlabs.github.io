@@ -1,0 +1,2 @@
+# Image needs to be placed in below path and the name should be the url-ized one from "name"
+# themes\up-business-theme\static\images\authors\ansil-hameed-kunju.jpg
